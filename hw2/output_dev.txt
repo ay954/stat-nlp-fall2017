@@ -1,27 +1,3 @@
-Using base path: data2
-Using model: maxent
-Testing on: validation
-[LBFGSMinimizer.minimize] Iteration 0 ended with value 30312.175191
-[LBFGSMinimizer.minimize] Iteration 1 ended with value 19700.811687
-[LBFGSMinimizer.minimize] Iteration 2 ended with value 15955.967293
-[LBFGSMinimizer.minimize] Iteration 3 ended with value 12279.788926
-[LBFGSMinimizer.minimize] Iteration 4 ended with value 10211.213919
-[LBFGSMinimizer.minimize] Iteration 5 ended with value 8746.156955
-[LBFGSMinimizer.minimize] Iteration 6 ended with value 7896.728568
-[LBFGSMinimizer.minimize] Iteration 7 ended with value 7382.507998
-[LBFGSMinimizer.minimize] Iteration 8 ended with value 6826.670813
-[LBFGSMinimizer.minimize] Iteration 9 ended with value 6605.009226
-[LBFGSMinimizer.minimize] Iteration 10 ended with value 6372.440441
-[LBFGSMinimizer.minimize] Iteration 11 ended with value 6302.139265
-[LBFGSMinimizer.minimize] Iteration 12 ended with value 6095.659713
-[LBFGSMinimizer.minimize] Iteration 13 ended with value 5972.963800
-[LBFGSMinimizer.minimize] Iteration 14 ended with value 5911.775243
-[LBFGSMinimizer.minimize] Iteration 15 ended with value 5868.081324
-[LBFGSMinimizer.minimize] Iteration 16 ended with value 5848.975587
-[LBFGSMinimizer.minimize] Iteration 17 ended with value 5821.677482
-[LBFGSMinimizer.minimize] Iteration 18 ended with value 5819.786805
-[LBFGSMinimizer.minimize] Iteration 19 ended with value 5803.049185
-Example: A-Fil 25 guess=drug gold=drug confidence=0.8573076228677078
 Example: Abbokinase guess=drug gold=drug confidence=0.7204754045178712
 Example: Accolate guess=drug gold=drug confidence=0.8048299281648219
 Example: Acet-3 guess=drug gold=drug confidence=0.9411979829248623
@@ -2914,4 +2890,3 @@ Example: WorldPages.com, Inc. guess=company gold=company confidence=0.9999624334
 Example: Yankee Candle Inc guess=company gold=company confidence=0.9978756537264555
 Example: Zenix Income Fund Inc. guess=company gold=company confidence=0.9999999808960676
 Example: baxter International Inc guess=company gold=company confidence=0.9999588013803926
-Accuracy: 0.8638091946076737
