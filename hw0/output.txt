@@ -1,6 +1,6 @@
 ---
 name:
-   first: Abhinav
-   last: Gupta
-email: abhinavg@nyu.edu
+   first: Aotian
+   last: Yang
+email: ay954@nyu.edu
 leaderboard: backpropper
