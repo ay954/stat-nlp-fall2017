@@ -2741,8 +2741,7 @@ Example: Pan Pacific Retail Properties guess=company gold= confidence=0.97434728
 Example: Partnerre Ltd guess=company gold= confidence=0.9975674959996303
 Example: PennEngineering guess=place gold= confidence=0.9697595993228753
 Example: Pharmacia Corporation guess=company gold= confidence=0.9993136247772701
-Example: Pimco Commercial Mortgage Securities Trust, Inc. guess=company gold= confidence=0.9Accuracy: 0.0
-999999998592948
+Example: Pimco Commercial Mortgage Securities Trust, Inc. guess=company gold= confidence=0.9999999998592948
 Example: Pitney Bowes Inc guess=company gold= confidence=0.9990972461107724
 Example: Plc Cap Tr I guess=company gold= confidence=0.9999979894869244
 Example: Policy Management Systems Corporation. guess=company gold= confidence=0.9999820824587934
