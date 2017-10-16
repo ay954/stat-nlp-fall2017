@@ -1,4 +1,4 @@
-Influential	NNP
+Influential	JJ
 members	NNS
 of	IN
 the	DT
@@ -504,7 +504,7 @@ Oversight	NNP
 Board	NNP
 has	VBZ
 been	VBN
-remiss	NN
+remiss	RBR
 in	IN
 not	RB
 keeping	VBG
@@ -2253,7 +2253,7 @@ Nos.	NNP
 through	IN
 9	CD
 ,	,
-a.k.a.	CD
+a.k.a.	NN
 the	DT
 ``	``
 bottom	NN
@@ -2429,7 +2429,7 @@ Craig	NNP
 He	PRP
 's	VBZ
 an	DT
-ex-hurler	NN
+ex-hurler	JJ
 who	WP
 's	VBZ
 one	CD
@@ -2712,7 +2712,7 @@ a	DT
 triumph	NN
 of	IN
 either	DT
-apathy	NN
+apathy	JJ
 or	CC
 civility	NN
 .	.
@@ -2955,7 +2955,7 @@ McGwire	NNP
 An	DT
 A	NN
 's	POS
-co-hero	NN
+co-hero	JJ
 of	IN
 the	DT
 second	JJ
@@ -8175,7 +8175,7 @@ second	JJ
 quarter	NN
 .	.
 
-Nonperformers	NNP
+Nonperformers	NNS
 totaled	VBD
 $	$
 230.8	CD
@@ -12645,7 +12645,7 @@ sum	NN
 incentives	NNS
 .	.
 
-MRA	DT
+MRA	NNP
 Staffing	NNP
 Systems	NNPS
 signs	NNS
@@ -12799,7 +12799,7 @@ $	$
 
 CURBING	NNP
 WAGE	NN
-BOOSTS	NNP
+BOOSTS	NNS
 will	MD
 get	VB
 high	JJ
@@ -12934,7 +12934,7 @@ time	NN
 HOME	NNP
 -	HYPH
 SALE	NNP
-LOSSES	NNP
+LOSSES	NNPS
 rise	NN
 ,	,
 but	CC
@@ -14164,7 +14164,7 @@ recognition	NN
 ''	''
 
 Retailer	NNP
-Sees	NNP
+Sees	NNPS
 Pitfalls	NNP
 In	IN
 Environmental	NNP
@@ -14271,7 +14271,7 @@ dishwasher	PRP$
 detergent	NN
 and	CC
 puts	VBZ
-Sunlight	JJ
+Sunlight	RB
 on	IN
 its	PRP$
 environmentally	RB
@@ -14461,7 +14461,7 @@ Odds	NNPS
 and	CC
 Ends	NNPS
 
-NEATNESS	NNP
+NEATNESS	EX
 does	VBZ
 count	NN
 --	:
@@ -21257,7 +21257,7 @@ then	RB
 we	PRP
 needed	VBD
 a	DT
-savior	NN
+savior	JJ
 to	TO
 go	VB
 into	IN
@@ -23485,7 +23485,7 @@ Huntsman	NNP
 Holdings	NNPS
 ,	,
 acquire	VB
-Aristech	RB
+Aristech	NN
 in	IN
 a	DT
 friendly	JJ
@@ -25690,7 +25690,7 @@ market	NN
 
 Municipals	NNS
 
-Rebounding	JJ
+Rebounding	VBG
 stocks	NNS
 and	CC
 weaker	JJR
@@ -25961,7 +25961,7 @@ percentage	NN
 point	NN
 .	.
 
-BMA	DT
+BMA	NNP
 Corp.	NNP
 ,	,
 Kansas	NNP
@@ -27381,9 +27381,9 @@ Vanderbilt	NNP
 trademark	NN
 ,	,
 which	WDT
-Gitano	DT
+Gitano	NNP
 recently	RB
-acquired	VBN
+acquired	VBD
 .	.
 
 Enron	NNP
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	CC
 include	VBP
-over-allotment	NN
+over-allotment	JJ
 provisions	NNS
 .	.
 
@@ -27931,7 +27931,7 @@ have	VBP
 been	VBN
 advancing	VBG
 the	DT
-monochrome	JJ
+monochrome	NN
 look	NN
 with	IN
 clothing	NN
@@ -28791,7 +28791,7 @@ they	PRP
 all	RB
 say	VBP
 `	``
-wow	UH
+wow	VB
 .	.
 '	''
 
@@ -30924,7 +30924,7 @@ position	NN
 THE	DT
 STOCK	NN
 MARKET	NN
-AVOIDED	NNP
+AVOIDED	IN
 a	DT
 repeat	NN
 of	IN
@@ -34610,7 +34610,7 @@ due	JJ
 for	IN
 a	DT
 correction	NN
-anyhow	WRB
+anyhow	NN
 ,	,
 following	VBG
 several	JJ
@@ -37404,7 +37404,7 @@ Los	NNP
 Angeles	NNP
 said	VBD
 the	DT
-PerkinElmer	NNP
+PerkinElmer	JJ
 unit	NN
 's	POS
 work	NN
@@ -42135,7 +42135,7 @@ slower	JJR
 earnings	NNS
 growth	NN
 of	IN
-non-Manpower	JJR
+non-Manpower	JJ
 units	NNS
 in	IN
 Britain	NNP
