@@ -1467,7 +1467,7 @@ ad	NN
 campaign	NN
 ,	,
 ``	``
-Leadership	NN
+Leadership	NNP
 by	IN
 Example	NNP
 .	.
@@ -2429,7 +2429,7 @@ Craig	NNP
 He	PRP
 's	VBZ
 an	DT
-ex-hurler	JJ
+ex-hurler	NN
 who	WP
 's	VBZ
 one	CD
@@ -2452,7 +2452,7 @@ it	PRP
 dives	VBZ
 beneath	IN
 the	DT
-lunging	VBG
+lunging	JJ
 bat	NN
 .	.
 
@@ -2891,7 +2891,7 @@ second	JJ
 inning	NN
 ,	,
 and	CC
-homered	VBD
+homered	VBN
 for	IN
 his	PRP$
 team	NN
@@ -5557,8 +5557,8 @@ this	DT
 legislation	NN
 .	.
 
-Aides	NNP
-both	CC
+Aides	IN
+both	DT
 in	IN
 the	DT
 House	NNP
@@ -7204,7 +7204,7 @@ of	IN
 West	NNP
 Germany	NNP
 's	POS
-bluest	JJS
+bluest	NN
 chips	NNS
 took	VBD
 some	DT
@@ -10077,7 +10077,7 @@ receive	VB
 million	CD
 shares	NNS
 of	IN
-BancOklahoma	DT
+BancOklahoma	NNP
 common	JJ
 stock	NN
 and	CC
@@ -11846,8 +11846,8 @@ rules	NNS
 are	VBP
 in	IN
 place	NN
-that	IN
-synchronize	NN
+that	WDT
+synchronize	VBP
 circuit	NN
 breakers	NNS
 in	IN
@@ -12670,7 +12670,7 @@ housing	NN
 .	.
 
 TREATING	NNP
-EMPLOYEES	NNP
+EMPLOYEES	NNS
 with	IN
 respect	NN
 is	VBZ
@@ -12737,10 +12737,10 @@ they	PRP
 work	VBP
 .	.
 
-SPRUCING	NNP
+SPRUCING	VBG
 UP	RP
 THE	DT
-DIGS	NNPS
+DIGS	NNS
 :	:
 About	RB
 200	CD
@@ -12934,7 +12934,7 @@ time	NN
 HOME	NNP
 -	HYPH
 SALE	NNP
-LOSSES	NNPS
+LOSSES	NNP
 rise	NN
 ,	,
 but	CC
@@ -13143,7 +13143,7 @@ inventors	NNS
 of	IN
 the	DT
 semiconductor	NN
-microchip	NN
+microchip	VB
 a	DT
 $	$
 350,000	CD
@@ -13496,8 +13496,8 @@ market	NN
 .	.
 
 Chicken	NNP
-Chains	NNP
-Ruffled	NNP
+Chains	VBZ
+Ruffled	VBN
 By	IN
 Loss	NN
 of	IN
@@ -13918,7 +13918,7 @@ aggressive	JJ
 Reluctant	JJ
 Advertisers	NNS
 Try	VBP
-Soft	NNP
+Soft	JJ
 -	HYPH
 Sell	VB
 Spots	NNS
@@ -14164,7 +14164,7 @@ recognition	NN
 ''	''
 
 Retailer	NNP
-Sees	NNPS
+Sees	NNP
 Pitfalls	NNP
 In	IN
 Environmental	NNP
@@ -14325,7 +14325,7 @@ Bros.	NNP
 confirms	VBZ
 that	IN
 its	PRP$
-Sunlight	JJ
+Sunlight	NNP
 brand	NN
 does	VBZ
 contain	VB
@@ -14461,7 +14461,7 @@ Odds	NNPS
 and	CC
 Ends	NNPS
 
-NEATNESS	EX
+NEATNESS	NNP
 does	VBZ
 count	NN
 --	:
@@ -18181,7 +18181,7 @@ falling	VBG
 and	CC
 Singapore	NNP
 's	POS
-Straits	NNPS
+Straits	NNP
 Times	NNP
 Industrial	NNP
 Index	NNP
@@ -21257,7 +21257,7 @@ then	RB
 we	PRP
 needed	VBD
 a	DT
-savior	JJ
+savior	NN
 to	TO
 go	VB
 into	IN
@@ -23727,7 +23727,7 @@ of	IN
 fine	JJ
 crystal	NN
 and	CC
-Wedgwood	JJ
+Wedgwood	NNP
 china	NN
 ,	,
 reported	VBD
@@ -27503,7 +27503,7 @@ revised	JJ
 numbers	NNS
 both	CC
 include	VBP
-over-allotment	JJ
+over-allotment	NN
 provisions	NNS
 .	.
 
@@ -28068,7 +28068,7 @@ scrambling	VBG
 to	TO
 tap	VB
 the	DT
-resurging	VBG
+resurging	JJ
 market	NN
 ,	,
 reviving	VBG
@@ -29279,7 +29279,7 @@ the	DT
 appeal	NN
 .	.
 
-McClatchy	NNP
+McClatchy	WRB
 Newspapers	NNS
 Inc.	NNP
 said	VBD
@@ -30924,7 +30924,7 @@ position	NN
 THE	DT
 STOCK	NN
 MARKET	NN
-AVOIDED	IN
+AVOIDED	CC
 a	DT
 repeat	NN
 of	IN
@@ -37404,7 +37404,7 @@ Los	NNP
 Angeles	NNP
 said	VBD
 the	DT
-PerkinElmer	JJ
+PerkinElmer	NNP
 unit	NN
 's	POS
 work	NN
@@ -40456,7 +40456,7 @@ treating	VBG
 diabetes	NN
 .	.
 
-Delegates	NNS
+Delegates	NNP
 from	IN
 91	CD
 nations	NNS
@@ -42135,7 +42135,7 @@ slower	JJR
 earnings	NNS
 growth	NN
 of	IN
-non-Manpower	JJ
+non-Manpower	JJR
 units	NNS
 in	IN
 Britain	NNP
